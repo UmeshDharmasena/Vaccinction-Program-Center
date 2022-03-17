@@ -1,0 +1,6 @@
+Booth 0 :empty#empty#empty#empty#empty#empty
+Booth 1 :empty#empty#empty#empty#empty#empty
+Booth 2 :empty#empty#empty#empty#empty#empty
+Booth 3 :empty#empty#empty#empty#empty#empty
+Booth 4 :Tommy#Gun#1964#Chicago#idk#Pfizer
+Booth 5 :empty#empty#empty#empty#empty#empty

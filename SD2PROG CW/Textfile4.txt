@@ -1,0 +1,6 @@
+Booth 0 :null#null#null#null#null#null
+Booth 1 :sad#dfghjk#12#dfghjk#rtyui#AstraZeneca
+Booth 2 :empty#empty#empty#empty#empty#empty
+Booth 3 :empty#empty#empty#empty#empty#empty
+Booth 4 :empty#empty#empty#empty#empty#empty
+Booth 5 :empty#empty#empty#empty#empty#empty

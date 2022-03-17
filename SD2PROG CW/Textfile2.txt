@@ -1,0 +1,6 @@
+Booth 0 :empty
+Booth 1 :empty
+Booth 2 :Jack
+Booth 3 :empty
+Booth 4 :empty
+Booth 5 :empty

@@ -1,0 +1,6 @@
+Booth 1 :empty
+Booth 2 :empty
+Booth 3 :empty
+Booth 4 :empty
+Booth 5 :Jack#Sawyer#Pfizer
+Booth 6 :empty
